@@ -1,8 +1,4 @@
-# ENPM661
-Projects for course Planning for Autonomous Robots
-
-## Problem Statement
-Solve a 8-Piece Puzzle using Tree
+# ENPM661 - Solve a 8-Piece Puzzle
 
 ## Compiling the code
 The required helper functions for solving the puzzle are provided in the `puzzle.h` file. To compile the code open the required directory in the Terminal and type:
